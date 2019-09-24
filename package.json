@@ -1,0 +1,26 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "sample node app deployed to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgielyn/Heroku.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "Jorgielyn Iran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgielyn/Heroku/issues"
+  },
+  "homepage": "https://github.com/jorgielyn/Heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
